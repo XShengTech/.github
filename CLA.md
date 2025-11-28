@@ -4,7 +4,6 @@ _Applies to all repositories under the `XShengTech` GitHub organization._
 
 By submitting a pull request or contributing code, documentation, or any other material (“Contribution”) to any repository under the **XShengTech** organization, you agree to the following terms:
 
----
 
 ## **1\. License Grant**
 
@@ -25,7 +24,6 @@ You hereby grant **XShengTech** an irrevocable, worldwide, perpetual, royalty-fr
 
 This enables XShengTech to maintain both open-source and commercial versions of its software.
 
----
 
 ## **2\. Ownership & Rights**
 
@@ -38,13 +36,11 @@ You confirm that:
 
 You retain the copyright of your Contribution.
 
----
 
 ## **3\. No Obligation to Use the Contribution**
 
 XShengTech is not required to incorporate or distribute your Contribution.
 
----
 
 ## **4\. No Warranty**
 
@@ -60,7 +56,6 @@ Your Contribution is provided “as is” without warranties.
 
 当你向本组织提交 Pull Request 或其他贡献（代码、文档等）时，你同意：
 
----
 
 ## **1\. 版权许可**
 
@@ -73,9 +68,8 @@ Your Contribution is provided “as is” without warranties.
 - 创建衍生作品
     
 - 以 **AGPL、商业闭源许可等多种许可证** 发布包含你贡献的版本
-    
 
----
+
 
 ## **2\. 所有权声明**
 
@@ -88,18 +82,15 @@ Your Contribution is provided “as is” without warranties.
 
 你仍然保留对贡献部分的版权。
 
----
 
 ## **3\. 无纳入义务**
 
 XShengTech 不承担合并或发布贡献的义务。
 
----
 
 ## **4\. 免责声明**
 
 贡献按“原样”提供，不保证适用性或无缺陷。
 
----
 
 提交 Pull Request 即表示你已同意本协议的条款。
